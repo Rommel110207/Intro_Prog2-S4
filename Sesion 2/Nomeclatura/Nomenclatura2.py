@@ -1,0 +1,5 @@
+print("a) nombrepersona → camelCase", "nombrePersona")
+print("b) EdadPersona → snake_case", "edad_persona")
+print("c) TotalPrecio → camelCase", "totalPrecio")
+print("d) numero-de-telefono → snake_case", "numero_de_telefono")
+print("e) DireccionEmail → camelCase", "direccionEmail")

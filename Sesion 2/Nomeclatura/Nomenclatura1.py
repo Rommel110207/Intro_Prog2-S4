@@ -1,0 +1,5 @@
+print("a) totalAmount", "es camel case")
+print("b) TotalAmount", "es Pascal case")
+print("c) total_amount", "es snake case")
+print("d) TOTAL_AMOUNT", "es screaming snake case")
+print("e) total-amount", "es kebab case") 
